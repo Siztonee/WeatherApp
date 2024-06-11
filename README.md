@@ -1,1 +1,1 @@
-Weather App on laravel with API.
+Weather App on laravel with API OpenWeather.

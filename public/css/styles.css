@@ -1,0 +1,39 @@
+.weather-card {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #6dd5ed, #2193b0);
+    color: white;
+}
+.weather-card h2 {
+    margin-bottom: 20px;
+}
+.weather-card .icon {
+    font-size: 64px;
+}
+.weather-card .temp {
+    font-size: 48px;
+    font-weight: bold;
+}
+.weather-card .description {
+    font-size: 24px;
+    text-transform: capitalize;
+}
+.hourly-weather {
+    overflow: hidden;
+}
+.swiper-container {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.swiper-slide {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.swiper-slide p {
+    margin: 0;
+}
